@@ -69,4 +69,3 @@ tidySet <- setWithActivityNames %>%
 write.table(tidySet, "tidySet.txt", row.names = FALSE)
 
 
-#original work by github.com/divyam6969
